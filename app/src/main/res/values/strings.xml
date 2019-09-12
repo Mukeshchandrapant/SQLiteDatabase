@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLiteFirst</string>
+    <string name="addbutton">Add Student</string>
+</resources>
